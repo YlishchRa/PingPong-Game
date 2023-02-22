@@ -1,0 +1,680 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Entity::position' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/ProjectsC++/Work(Ping Pong)/Work(Ping Pong)/Entity.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Entity::{ctor}",
+                  "decoratedName": "??0Entity@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Entity::position"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Entity::h' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/ProjectsC++/Work(Ping Pong)/Work(Ping Pong)/Entity.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Entity::{ctor}",
+                  "decoratedName": "??0Entity@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Entity::h"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Entity::y' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/ProjectsC++/Work(Ping Pong)/Work(Ping Pong)/Entity.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Entity::{ctor}",
+                  "decoratedName": "??0Entity@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Entity::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Entity::x' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/ProjectsC++/Work(Ping Pong)/Work(Ping Pong)/Entity.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Entity::{ctor}",
+                  "decoratedName": "??0Entity@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Entity::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Entity::dy' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/ProjectsC++/Work(Ping Pong)/Work(Ping Pong)/Entity.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Entity::{ctor}",
+                  "decoratedName": "??0Entity@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Entity::dy"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Entity::dx' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/ProjectsC++/Work(Ping Pong)/Work(Ping Pong)/Entity.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Entity::{ctor}",
+                  "decoratedName": "??0Entity@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Entity::dx"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Entity::img' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/ProjectsC++/Work(Ping Pong)/Work(Ping Pong)/Entity.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Entity::{ctor}",
+                  "decoratedName": "??0Entity@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Entity::img"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.32.31332.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///D:/ProjectsC++/Work(Ping Pong)/Work(Ping Pong)/Entity.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "6ed281987f7431719a4fccbf0b944eb0efcec0a4db1e63406d021ccb19cc6ca4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/work(ping pong)/work(ping pong)/player.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "7137e259d7eca20a6b15662051747510076c82a2a188c6b69ec8fdf747da785c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/work(ping pong)/work(ping pong)/player.h"
+          },
+          "hashes": {
+            "sha-256": "37c80ea6b7a3500bec29a37bab3c72818fe80592f4d2571774f82431445d3cd3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_image.h"
+          },
+          "hashes": {
+            "sha-256": "f1a6bade306e69da970ae9b9c2f2c7ca43d46d018938fca5e036d3dbf5af5867"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl.h"
+          },
+          "hashes": {
+            "sha-256": "53afe4b59f9081a4f6b2889bd219d399ff506345168937c62c6fa8dc92d9461d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_main.h"
+          },
+          "hashes": {
+            "sha-256": "644c14301605153ad2817bef7e6dee96e752827bbd9bd1c88ee5d4fe0f6bc41e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_stdinc.h"
+          },
+          "hashes": {
+            "sha-256": "300b014d9bd0a4f0a572886ddff9f3a46a438b73bba919b567380444acf297eb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_config.h"
+          },
+          "hashes": {
+            "sha-256": "e36cdddecb2e22017c100165e609417b1183a041a934ba758e1e3b7f001bb6dd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_platform.h"
+          },
+          "hashes": {
+            "sha-256": "fcd295ca5be0bec75574cb323c409c2d8f0ade779503a9f50c2ffb94f30231a9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/begin_code.h"
+          },
+          "hashes": {
+            "sha-256": "98e31da4c61d547c9c88184135b72e3d014a7a69102e5c6d758350237cf6b271"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/close_code.h"
+          },
+          "hashes": {
+            "sha-256": "f49100335e21a43455ead0e742f7c816d0494171ce10948e3637b9abf3ca953a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_assert.h"
+          },
+          "hashes": {
+            "sha-256": "8625d9a9907679a667b046255117f4716cbf6f7b94d730a3510a5317bce45724"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_atomic.h"
+          },
+          "hashes": {
+            "sha-256": "d0e6546ddc4f01bb503f3aecf15ca25496975e00eeb42d00a8a5978aa26f92b5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_audio.h"
+          },
+          "hashes": {
+            "sha-256": "0161cf27e252eaff2c7b4bd48ddf526db6a8eb5d0f1459295686a1cfdb32b01a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_error.h"
+          },
+          "hashes": {
+            "sha-256": "470f04a4562305966d7705b774c1e85fb6e9e8ce4c136f2669bd4cc2cc6c922f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_endian.h"
+          },
+          "hashes": {
+            "sha-256": "7b9920f5e114e8d276c3c4394630c1598012c7f54262dd8f7efa188407e80189"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_mutex.h"
+          },
+          "hashes": {
+            "sha-256": "3a656b533b97a5527a89fcfbb709c37024f7ed293d942a6a3f9ce068273f42d0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_thread.h"
+          },
+          "hashes": {
+            "sha-256": "36e921f32b393731319e7de19706b142c45c1aa272d297e36e6c57b4119d256e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_rwops.h"
+          },
+          "hashes": {
+            "sha-256": "231d792f807225b204ac5950cd76350b8e7c45bd8a47e93e334dccc61446bbbd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_clipboard.h"
+          },
+          "hashes": {
+            "sha-256": "440e51ac94bdd80cc3335f2d7cdd50ebb66b142ade0c1d72f0f93cf7fd6606b0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_cpuinfo.h"
+          },
+          "hashes": {
+            "sha-256": "7ad65977050d4ef781178f8a163bf6c0fa1a9140752f5da5f43c42aec22d3f85"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_events.h"
+          },
+          "hashes": {
+            "sha-256": "38c24588db6b73ab3123cb0cb06656bf5ee69fbf9a921b178c5c597bd0a79312"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_video.h"
+          },
+          "hashes": {
+            "sha-256": "0791812fee2ca14779f1cdb480270409a010d862cf6624d4048cf8ce7a08ff3f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_pixels.h"
+          },
+          "hashes": {
+            "sha-256": "b1ea3870abcf21584a520e41cdca0e32d957b87c0afb8cdafac95dda80e1810c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_rect.h"
+          },
+          "hashes": {
+            "sha-256": "eb138b567b86c5fd92f378ecd40969758f863e2f3a70bff7a65ce7bb9a095703"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_surface.h"
+          },
+          "hashes": {
+            "sha-256": "e033f6a0fe7958154f4a08803da9c1084db67a472114ab070dd47d3747aeda27"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_blendmode.h"
+          },
+          "hashes": {
+            "sha-256": "64082c3f9c6a5d08ac143004dc3591586bd498fdf443416a2ad5e153d8fd3da8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_keyboard.h"
+          },
+          "hashes": {
+            "sha-256": "319e9af1bb169056664f53a3a6dcd6f83cd8c5c145484dd8c07b53023b488d11"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_keycode.h"
+          },
+          "hashes": {
+            "sha-256": "fe1bf8054eb8764f1c1855d21c41539ded85968fd28be9128811c431dce89199"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_scancode.h"
+          },
+          "hashes": {
+            "sha-256": "be5687659ea1c02ae50e941989995272a154db5f373f62e24021b9c15d568def"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_mouse.h"
+          },
+          "hashes": {
+            "sha-256": "8d48c639be35c3c9a70814e663f80a98db897ffbabf2c4561e6f8d72af878e55"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_joystick.h"
+          },
+          "hashes": {
+            "sha-256": "bd607c850d4b862a9dca0fbcfc5c60a25442be90ee71f78b4a6c457e63ba5e26"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_guid.h"
+          },
+          "hashes": {
+            "sha-256": "00d0e3df560ef8cc8b67aa6c2727fb67f2b57a91e5923526d943974866351b6c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_gamecontroller.h"
+          },
+          "hashes": {
+            "sha-256": "d016c1fa4a4c1d9b1d47216113e076251cacfaf239cfc8ed8fcdd5a28c4f73c9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_sensor.h"
+          },
+          "hashes": {
+            "sha-256": "63ada251f819dd5ca1c58504698113b77b64561737969c88be23d0a3fa5bfcc8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_quit.h"
+          },
+          "hashes": {
+            "sha-256": "a2fd94238708d48b3262af2a93bfff470ae663939b021a7b2a4453d1ca7c5d53"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_gesture.h"
+          },
+          "hashes": {
+            "sha-256": "9fc58622bc0194b0d6766ea56fe32db47c0b199f35b007e370d1d0a88012acf8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_touch.h"
+          },
+          "hashes": {
+            "sha-256": "e132fa6288a6f73589a38c5729977f319b2b508acd52f95916912ea0cb4e2255"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_filesystem.h"
+          },
+          "hashes": {
+            "sha-256": "a6e34d1306e52eb8880daa399d8cb376c565de57df8d12313d8d3faa4be51e2c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_haptic.h"
+          },
+          "hashes": {
+            "sha-256": "ae535dfd03e7d2d52435965de6eb5cd200157fd721200ecc3a401b0cec0f65ad"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_hidapi.h"
+          },
+          "hashes": {
+            "sha-256": "f13f679c630c3910d63982d3ff44a9ab0b17892da2a93cfc2a1bf93d65a7b1c4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_hints.h"
+          },
+          "hashes": {
+            "sha-256": "6b06d9fe4ff9f46dcb61f25d5041bd9a62508254b9be6b1c84125427c929e9a9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_loadso.h"
+          },
+          "hashes": {
+            "sha-256": "8e4d0357ad6c8069cd7de68201736065500a8c7b2384e7fd65d4ee4d160091cb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_log.h"
+          },
+          "hashes": {
+            "sha-256": "1e3f574e4e5f06b4ac3bb7670e50d16a81c2493930f48f2e7084fa512aadefff"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_messagebox.h"
+          },
+          "hashes": {
+            "sha-256": "9f8e01efd07295e6d0f4ef3350bd217ada6996591c2022b7f9163fbfdfe67eef"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_metal.h"
+          },
+          "hashes": {
+            "sha-256": "e94e533770ce8cd1f17c1999e643654ff30812375b3c6e9c693a4d7ee330d00a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_power.h"
+          },
+          "hashes": {
+            "sha-256": "93ae2fad778ff057a582f4940cc83864b4991aeaeaeb5c94f3bc30ebfe6633ef"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_render.h"
+          },
+          "hashes": {
+            "sha-256": "1c611f9adc432509cc37f3e6d3a18c7dda91426a699ba20e915685f18d6279cf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_shape.h"
+          },
+          "hashes": {
+            "sha-256": "1d35455675397d3dcd27bef13c62ec4c4c40b2211c27d589af23bfccb6492fa7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_system.h"
+          },
+          "hashes": {
+            "sha-256": "42ac41a62f1a9c385cf5779e64a1b2a6d20c207957ef142c17f6ed5b611e2ab8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_timer.h"
+          },
+          "hashes": {
+            "sha-256": "190af3b762fd203ce25c17eda9fb31d698bd75957f59d4ce7cc21671e8a2403a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_version.h"
+          },
+          "hashes": {
+            "sha-256": "9aa7fff469902217289e554edf1a1be06534068cbee2f80d12b56d285e13e807"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_locale.h"
+          },
+          "hashes": {
+            "sha-256": "9919ace207fad203b24ac916c92b529f74088ed14c797760a32e05b76c6058ec"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/projectsc++/pingpong/sdl/sdl2-2.26.2/include/sdl_misc.h"
+          },
+          "hashes": {
+            "sha-256": "ee696c2a1135d0110ce6c9efe0d67f9a9e8ec400f6f00c2b53247995193f96ec"
+          }
+        }
+      ]
+    }
+  ]
+}

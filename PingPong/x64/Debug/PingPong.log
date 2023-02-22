@@ -1,0 +1,26 @@
+﻿  Ball.cpp
+D:\ProjectsC++\PingPong\PingPong\Ball.h(10,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Ball.h(32,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bot.cpp
+D:\ProjectsC++\PingPong\PingPong\Ball.h(10,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Ball.h(32,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Bot.cpp(13,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Bot.cpp(21,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Entity.cpp
+  FTexture.cpp
+  Main.cpp
+D:\ProjectsC++\PingPong\PingPong\Ball.h(10,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Ball.h(32,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(81,57): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(81,57): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(81,80): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(81,80): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(84,47): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(84,47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(84,92): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(84,92): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(84,115): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProjectsC++\PingPong\PingPong\Main.cpp(84,115): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+  Generating Code...
+  PingPong.vcxproj -> D:\ProjectsC++\PingPong\x64\Debug\PingPong.exe
